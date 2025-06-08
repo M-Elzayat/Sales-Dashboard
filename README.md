@@ -97,3 +97,8 @@ Bikes-Sales-Dashboard/
 
 **Mahmoud Mohamed Fawzy Elzayat**  
 [🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
+
+## License
+
+This project is licensed under the Creative Commons BY-NC-ND 4.0 License.  
+© Mahmoud Elzayat, 2025 — All rights reserved.
